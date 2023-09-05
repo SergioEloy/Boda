@@ -66,7 +66,7 @@ function App() {
         justifyContent={"center"}
         display={"flex"}
       >
-        <Box width={"50%"}>
+        <Box width={"35%"}>
           <h2>
             {english ? "Send Your Congratulations" : "Envía tus felicitaciones"}
           </h2>
